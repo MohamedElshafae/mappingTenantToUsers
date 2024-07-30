@@ -1,0 +1,14 @@
+D:\files\Origin Training\Task\Task.Core\bin\Debug\net8.0\Task.Core.deps.json
+D:\files\Origin Training\Task\Task.Core\bin\Debug\net8.0\Task.Core.runtimeconfig.json
+D:\files\Origin Training\Task\Task.Core\bin\Debug\net8.0\Task.Core.dll
+D:\files\Origin Training\Task\Task.Core\bin\Debug\net8.0\Task.Core.pdb
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.csproj.AssemblyReference.cache
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.AssemblyInfoInputs.cache
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.AssemblyInfo.cs
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.csproj.CoreCompileInputs.cache
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.dll
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\refint\Task.Core.dll
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.pdb
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\Task.Core.genruntimeconfig.cache
+D:\files\Origin Training\Task\Task.Core\obj\Debug\net8.0\ref\Task.Core.dll
