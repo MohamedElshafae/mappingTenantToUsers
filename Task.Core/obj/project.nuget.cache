@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gmKaOkd4WOw=",
+  "dgSpecHash": "m+7hJ45phzw=",
   "success": true,
-  "projectFilePath": "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj",
+  "projectFilePath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elshafae\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Elshafae\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

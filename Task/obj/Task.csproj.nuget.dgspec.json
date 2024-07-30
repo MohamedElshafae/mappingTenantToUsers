@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\files\\Origin Training\\Task\\Task\\Task.csproj": {}
+    "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task\\Task.csproj": {}
   },
   "projects": {
-    "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj": {
+    "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj",
+        "projectUniqueName": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj",
         "projectName": "Task.Core",
-        "projectPath": "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj",
+        "projectPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj",
         "packagesPath": "C:\\Users\\Elshafae\\.nuget\\packages\\",
-        "outputPath": "D:\\files\\Origin Training\\Task\\Task.Core\\obj\\",
+        "outputPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\files\\Origin Training\\Task\\Task.Data\\Task.Data.csproj": {
+    "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Data\\Task.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\files\\Origin Training\\Task\\Task.Data\\Task.Data.csproj",
+        "projectUniqueName": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Data\\Task.Data.csproj",
         "projectName": "Task.Data",
-        "projectPath": "D:\\files\\Origin Training\\Task\\Task.Data\\Task.Data.csproj",
+        "projectPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Data\\Task.Data.csproj",
         "packagesPath": "C:\\Users\\Elshafae\\.nuget\\packages\\",
-        "outputPath": "D:\\files\\Origin Training\\Task\\Task.Data\\obj\\",
+        "outputPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -110,8 +110,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj": {
-                "projectPath": "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj"
+              "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj": {
+                "projectPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj"
               }
             }
           }
@@ -180,14 +180,14 @@
         }
       }
     },
-    "D:\\files\\Origin Training\\Task\\Task\\Task.csproj": {
+    "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task\\Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\files\\Origin Training\\Task\\Task\\Task.csproj",
+        "projectUniqueName": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task\\Task.csproj",
         "projectName": "Task",
-        "projectPath": "D:\\files\\Origin Training\\Task\\Task\\Task.csproj",
+        "projectPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task\\Task.csproj",
         "packagesPath": "C:\\Users\\Elshafae\\.nuget\\packages\\",
-        "outputPath": "D:\\files\\Origin Training\\Task\\Task\\obj\\",
+        "outputPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -209,11 +209,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj": {
-                "projectPath": "D:\\files\\Origin Training\\Task\\Task.Core\\Task.Core.csproj"
+              "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj": {
+                "projectPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Core\\Task.Core.csproj"
               },
-              "D:\\files\\Origin Training\\Task\\Task.Data\\Task.Data.csproj": {
-                "projectPath": "D:\\files\\Origin Training\\Task\\Task.Data\\Task.Data.csproj"
+              "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Data\\Task.Data.csproj": {
+                "projectPath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Data\\Task.Data.csproj"
               }
             }
           }

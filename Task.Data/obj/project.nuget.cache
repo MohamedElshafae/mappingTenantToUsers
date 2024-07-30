@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EmSEEpNHgk4=",
+  "dgSpecHash": "t5ePIl+STD8=",
   "success": true,
-  "projectFilePath": "D:\\files\\Origin Training\\Task\\Task.Data\\Task.Data.csproj",
+  "projectFilePath": "D:\\files\\Origin Training\\Task\\mappingTenantToUsers\\Task.Data\\Task.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elshafae\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Elshafae\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
